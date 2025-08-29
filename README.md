@@ -20,11 +20,11 @@ These driver files are not perfect, typos may exist, feel free to file an issue 
 | Battery                | The battery driver is not installed by default      | ⚠️            |
 | Buttons                |                                                     | ✅            |
 | Location               |                                                     | ✅            |
-| Cellular Data          | Need to dump modem at every boot.                   | ⚠️            |
+| Cellular Data          |                                                     | ✅            |
 | Charge                 | Slow charging only.                                 | ⚠️            |
 | 🛡️ TPM                | Only supports Windows 11 22H2 and above.            | ⚠️            |
 | 🧭 Sensor             |                                                     | ✅            |
-| 🧭 Light Sensor       | Need to copy calibration data                       | ❌            |
+| 🧭 Light Sensor       |                                                     | ✅            |
 | 🧭 Thermal Sensor     | Same with above                                     | ⚠️            |
 | Haptic                 |                                                     | ❌            |
 
